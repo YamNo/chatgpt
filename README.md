@@ -9,7 +9,7 @@ A full video tutorial for this chat bot can be found [here](https://discord.gg/C
 1. Clone the repository to the current directory
 
 ```powershell
-git clone https://github.com/notunderctrl/chatgpt.
+git clone https://github.com/YamNo/chatgpt.
 ```
 
 2. Install all the dependencies
