@@ -2,7 +2,7 @@
 
 This is a simple Discord chat bot built using discord.js and the gpt model from Open AI. This is the same model used for the popular chatbot Chat GPT.
 
-A full video tutorial for this chat bot can be found [here](https://discord.gg/C3jdGJSJtU)
+join discord then dm AymNo#2700 [here](https://discord.gg/C3jdGJSJtU)
 
 ## How to setup
 
